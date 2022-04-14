@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>"C:\Program Files\RevitAPITrainig\RevitAPITestIFC.dll"</Assembly>
+    <AddInId>7EA590F8-F5FF-4110-A8A0-E887983093CE</AddInId>
+    <FullClassName>RevitAPITestIFC.Main</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <Text>IFC</Text>
+  </AddIn>
+</RevitAddIns>
